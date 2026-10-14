@@ -1,3 +1,5 @@
+![Welcome Banner](logo.png)
+
 # King's Field 2 — PS1→PC Port:
 
 ## Keyboard & Mouse Controls
